@@ -1,4 +1,6 @@
 ## iLaunch-ahk
+![windows](https://img.shields.io/badge/OS-Windows-blue)  
+
 AHK script to control itunes for windows using global hotkeys.
 ## hotkeys
 Ctrl-alt-p to play/pause the current track  
