@@ -1,4 +1,6 @@
 /*
+https://github.com/qrlk/iLaunch-ahk
+
 This is an AHK (https://www.autohotkey.com/) script to control iTunes For Windows via global hotkeys.
 
 This script is a successful attempt to extend the functionality of http://www.ke5fx.com/ilaunch/readme.htm
