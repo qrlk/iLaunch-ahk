@@ -46,4 +46,4 @@ iTunes := ComObjCreate("iTunes.Application")
 ^!4::iTunes.CurrentTrack.Rating := 80 ;Give a track 4 stars
 ^!5::iTunes.CurrentTrack.Rating := 100 ;Give a track 5 stars
 
-^!a::iTunes.LibraryPlaylist.AddFile(iTunes.CurrentTrack) ;Add current playing track to the library
+^!a::iTunes.LibraryPlaylist.AddTrack(iTunes.CurrentTrack) ;Add current playing track to the library
