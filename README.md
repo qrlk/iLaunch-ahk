@@ -9,10 +9,10 @@ Ctrl-alt-ArrowUp to increase volume
 Ctrl-alt-ArrowDown to decrease volume  
 
 Ctrl-alt-1 to give a track 20 rating (1 star)  
-Ctrl-alt-2 to give a track 40 rating (2 star)  
-Ctrl-alt-3 to give a track 60 rating (3 star)  
-Ctrl-alt-4 to give a track 80 rating (4 star)  
-Ctrl-alt-5 to give a track 100 rating (5 star)  
+Ctrl-alt-2 to give a track 40 rating (2 stars)  
+Ctrl-alt-3 to give a track 60 rating (3 stars)  
+Ctrl-alt-4 to give a track 80 rating (4 stars)  
+Ctrl-alt-5 to give a track 100 rating (5 stars)  
 
 Ctrl-alt-a to add current track to the library  
 ## info
